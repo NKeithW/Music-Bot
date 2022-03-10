@@ -41,7 +41,6 @@ Here are all the available commands in the bot!
 
 The project uses the following libraries:
 
-* **[Androz2091/discord-player](https://github.com/Androz2091/discord-player)** library for the core music features
 * **[discordjs](https://github.com/discordjs/discord.js)** for all the other requests to the Discord API
 * **[@discordjs/voice](https://github.com/discordjs/voice)** for all the **voice** requests to the Discord API
 * **[@discordjs/opus](https://github.com/discordjs/opus)** as the opus library
@@ -51,7 +50,7 @@ The project uses the following libraries:
 
 ### Manual
 * Install [FFMPEG](https://ffmpeg.org).
-* Clone the repository. (`git clone https://github.com/Androz2091/discord-music-bot`)
+* Clone the repository. (`git clone https://github.com/NKeithW/Music-Bot`)
 * Copy the `.env.example` file as `.env` and fill it.
  - `DISCORD_CLIENT_ID` is the ID of your Discord BOT
  - `DISCORD_CLIENT_TOKEN` is the token of your Discord BOT
